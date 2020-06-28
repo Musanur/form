@@ -1,0 +1,194 @@
+body {
+background-color:  #4affc9;
+;
+
+
+}
+.email{
+    border:2px solid #4affc9;
+    width: 250px;
+    box-shadow: 0 0 9px;
+    margin-top: 89px;
+    margin-left: 219px;
+    border-radius: 10px;
+}
+
+.ig {
+    width: 50px;
+    height: auto;
+    padding-top: 38px;
+    padding-left: 66px;
+}
+.ple{
+    width: 159px;
+    color: white;
+    font-size: 16px;
+    padding-left: 65px;
+}
+.we{
+    width: 159px;
+    color: white;
+    font-size: 16px;
+    padding-left: 65px;
+    margin-top: 418px;
+}
+
+.get{
+
+    border:2px solid white;
+ 
+    box-shadow: 0 0 9px;
+    margin-left: 481px;
+    margin-top: -670px;
+    margin-right: 79px;
+    background-color: white;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+.what {
+    color: #aeb5b2;
+    margin-left: 32px;
+    font-size: 19px
+}
+
+.sta{
+    font-size: 35px;
+    margin-left: 32px;
+}
+
+
+.text{
+    margin-top: -29px;
+    margin-left: 31px;
+    background-color: gainsboro;
+
+
+}
+
+.tell{
+    margin-left: 31px;
+    font-size: 18px;
+    color: #4affc9;
+}
+
+.fo input{
+
+    margin-left: 31px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+}
+.fo{
+    border: 1px solid #4affc9;
+    margin-left: 31px;
+    margin-right: 31px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+
+
+.you{
+    margin-left: 31px;
+    font-size: 18px;
+    color: #4affc9;
+    margin-top: 46px;
+}
+
+
+.box input{
+    border: 1px solid #4affc9;
+    margin-left: 31px;
+    margin-right: 31px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    outline: none;
+    font-size: 18px;
+}
+
+.com{
+    margin-left: 50%;
+    margin-top: -56px;
+    font-size: 18px;
+    color: #4affc9;
+}
+
+.nirob input{
+    
+    border: 1px solid #4affc9;
+    
+    margin-right: 31px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    outline: none;
+    font-size: 18px;
+
+}
+.nirob{
+    margin-left: 50%;
+}
+
+.ema{
+   
+    margin-left: 31px;
+    font-size: 18px;
+    color: #4affc9;
+    margin-top: 40px;
+}
+
+.osman input{
+    
+    border: 1px solid #4affc9;
+    margin-left: 31px;
+    margin-right: 31px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    outline: none;
+    font-size: 18px;
+
+}
+
+
+.ph{
+    margin-left: 50%;
+    margin-top: -56px;
+    font-size: 18px;
+    color: #4affc9;
+}
+
+.nir input{
+    
+    border: 1px solid #4affc9;
+    
+    margin-right: 31px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    outline: none;
+    font-size: 18px;
+
+}
+.nir{
+    margin-left: 50%;
+}
+
+.sen{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.sen a{
+    text-decoration: none;
+   color:white ;
+    border: 1px solid #4affc9;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-size: 31px;
+    background-color: #4affc9;
+    margin-left: 50%;
+    transition: .4s;
+}
+
+.sen  a:hover{
+    background-color: teal;
+}
